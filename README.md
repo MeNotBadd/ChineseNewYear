@@ -1,1 +1,1 @@
-# ChineseNewYear Welcome!dad
+# Happy Chinese New Year! Run this repo to pick a random Chinese New Year related task to do!
